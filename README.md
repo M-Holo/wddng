@@ -1,7 +1,6 @@
 # Ivka & Marek - Wedding Website
 
 Wedding website for Ivka & Marek  
-**12. September 2026** | Rezidencia Bokšov, Veľká Lodina
 
 ## Live Site
 
@@ -23,12 +22,6 @@ https://m-holo.github.io/wddng/
 
 This site deploys automatically via GitHub Pages from the `main` branch.
 
-### To enable GitHub Pages:
 
-1. Go to repository **Settings**
-2. Click **Pages** in the sidebar
-3. Under **Source**, select **Deploy from a branch**
-4. Choose **main** branch and **/ (root)** folder
-5. Click **Save**
 
 ## File Structure
